@@ -17,4 +17,4 @@ jobs:
         run: |
           echo"Branche actuelle : $GITHUB_REF"
       - name: Étape 4 -Lister les fichiers
-        run: ls-la
+        run: ls -la
